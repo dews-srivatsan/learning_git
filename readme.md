@@ -1,4 +1,4 @@
-## Hello, everyone for the git!
+## Welcome to git!
 
-- I am dev-sri
+- This is a coming from "dev-vat"
 - I'am adding this from "feature-branch-1"
