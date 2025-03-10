@@ -8,6 +8,8 @@ status of repo = git status
 to stage a file = git add filename.extension
 to stage every files in the folder = git add .
 to commit the staged files = git commit -m "commited files" (-m flag -> message)
+to see the entire commit we have done = git log (which gives the entire commit's with it's ID and hash code)
+to restore prev commit due to error in exisiting commit = 
 
 
 
