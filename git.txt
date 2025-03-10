@@ -1,0 +1,18 @@
+Git is a distributed version control system, which tracks changes in computer files, primarily used for coordinating development work by the programmers during software development process
+
+git --version
+git config --global user.name "srivatsan"
+git config --global user.gmail "srivatsan@techdew.com"
+create a repo = git init
+status of repo = git status
+to track a file = git add filename.extension
+
+
+git repo:
+A place where git tracks everything in our project
+master is the default branch name created by git
+
+NOTES:
+after adding a file we need to commit it so it is like a screenshot of the file at that point which helps us to track the file 
+now if u check the status we can find that readme.md file we not be there and others will be shown now each time we cant able to 
+commit each and every files to avoid we use 
